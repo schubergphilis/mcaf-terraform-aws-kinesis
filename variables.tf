@@ -3,11 +3,6 @@ variable "name" {
   description = "The name of the stream"
 }
 
-variable "stack" {
-  type        = string
-  description = "The stack name of the stream"
-}
-
 variable "shard_count" {
   type        = number
   default     = 1
