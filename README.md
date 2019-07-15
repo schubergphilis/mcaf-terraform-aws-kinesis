@@ -1,1 +1,1 @@
-# mcaf-terraform-aws-kinesis
+# terraform-aws-mcaf-kinesis
